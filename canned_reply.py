@@ -1,9 +1,7 @@
 import random
 import re
 from urllib.parse import quote
-
 import requests
-
 import secret
 
 generals = {
